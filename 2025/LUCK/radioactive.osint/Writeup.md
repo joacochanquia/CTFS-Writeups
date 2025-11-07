@@ -1,17 +1,17 @@
 # Writeup -- CTF K17: radioactive
 
-![](images/radioactive.png){width="13.148cm"
+![](recurso/radioactive.png){width="13.148cm"
 height="13.386cm"}
 
 El reto nos proporcionaba una **imagen de una torre de
 telecomunicaciones** con un cartel colocado detrás de una reja.
 
-![](images/image.jpg){width="17cm"
+![](recurso/image.jpg){width="17cm"
 height="22.666cm"}
 
 Haciendo zoom en el cartel se podía leer:
 
-![](images/imageZoom.png){width="17cm"
+![](recurso/imageZoom.png){width="17cm"
 height="10.998cm"}
 
 *This is a telecommunications facility. *
@@ -53,7 +53,7 @@ de telecomunicaciones en Australia. En la pagina:
 
 <https://www.rfnsa.com.au/2154006/detail>
 
-![](images/urlWithMap.png){width="17cm"
+![](recurso/urlWithMap.png){width="17cm"
 height="11.125cm"}
 
 ### Paso 4: Formato de la flag
@@ -72,5 +72,5 @@ Por lo tanto, la flag final es:
 
 *K17{-33.717,150.987}*
 
-![](images/radioactiveSolvedWithFlag.png){width="13.227cm"
+![](recurso/radioactiveSolvedWithFlag.png){width="13.227cm"
 height="15.739cm"}
